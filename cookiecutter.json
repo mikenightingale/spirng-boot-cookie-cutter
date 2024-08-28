@@ -1,0 +1,5 @@
+{
+  "project_name": "demoApp",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "database_name": "demo_db"
+}
